@@ -21,6 +21,6 @@ The abstraction techniques are also implemented for variable and data security.
 
 Direct clone the repository using the command :
 
-git clone 
+git clone https://github.com/RajKhanke/Quiz_Application_using_Java.git
 
 
